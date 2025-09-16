@@ -11,3 +11,5 @@ Dragoș Străinu FAF-151
 - Football
 
 ## Other
+
+- I like to participate at hackathons
