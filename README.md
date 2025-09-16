@@ -8,5 +8,6 @@ Dragoș Străinu FAF-151
 
 - Table tennis
 - Programming
+- Football
 
 ## Other
